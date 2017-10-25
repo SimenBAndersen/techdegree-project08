@@ -1,0 +1,25 @@
+{
+  "name": "techdegree-project08",
+  "version": "1.0.0",
+  "description": "Gulp build for front end website",
+  "main": "global.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimenBAndersen/techdegree-project08.git"
+  },
+  "author": "Simen Bjerkeset Andersen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimenBAndersen/techdegree-project08/issues"
+  },
+  "homepage": "https://github.com/SimenBAndersen/techdegree-project08#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
